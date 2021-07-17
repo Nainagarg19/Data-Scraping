@@ -166,9 +166,9 @@ for i in company_name:
 driver.get('https://www.linkedin.com/')
 time.sleep(3)
 username = driver.find_element_by_name('session_key')
-username.send_keys('gargnaina19@gmail.com')
+username.send_keys('naina**********@gmail.com')
 password = driver.find_element_by_name('session_password')
-password.send_keys('unionterritory92')
+password.send_keys('**************')
 while True:
     try:
         password.submit()
