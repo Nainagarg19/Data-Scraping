@@ -12,7 +12,6 @@ By automating this process, the script streamlines company research, significant
 
 - **Automated Data Collection**: Extracts crucial company information without manual intervention.
 - **Efficient and Accurate**: Reduces human error in data collection, providing reliable results.
-- **Easy to Use**: User-friendly interface for seamless operation.
 
 ## Tech Stack
 
